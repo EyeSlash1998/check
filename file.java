@@ -1,4 +1,4 @@
-class file{
+class file2{
 
 	static void myMethod(){
 		sysout("New branch");
